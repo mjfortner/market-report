@@ -190,7 +190,7 @@ The stock market demonstrated resilience in March 2024, with major indices posti
 Global markets showed mixed performance across regions...
 ```
 
-## 🚨 Error Handling
+## Error Handling
 
 The application includes comprehensive error handling for:
 
@@ -200,14 +200,14 @@ The application includes comprehensive error handling for:
 - File system permissions
 - Invalid date ranges
 
-## ⚡ Performance Tips
+## Performance Tips
 
 - **Date Range**: Shorter date ranges (1-30 days) generate faster
 - **API Keys**: Having multiple AI agent keys provides redundancy
 - **Internet**: Stable connection required for data fetching
 - **Disk Space**: Reports are typically 5-50KB each
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
