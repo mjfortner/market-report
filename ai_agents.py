@@ -78,7 +78,7 @@ class GeminiAgent(AIAgent):
         try:
             import google.generativeai as genai
             genai.configure(api_key=api_key)
-            self.client = genai.GenerativeModel('gemini-pro')
+            self.client = genai.GenerativeModel('gemini-1.5-flash')
         except ImportError:
             raise ImportError("Google Generative AI library not installed. Run: pip install google-generativeai")
     
